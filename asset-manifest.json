@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//Romeoprexx.github.io/React-App-Calculator/static/css/main.12a2f848.css",
+    "main.js": "/http//Romeoprexx.github.io/React-App-Calculator/static/js/main.42492e01.js",
+    "static/js/787.7ec99791.chunk.js": "/http//Romeoprexx.github.io/React-App-Calculator/static/js/787.7ec99791.chunk.js",
+    "index.html": "/http//Romeoprexx.github.io/React-App-Calculator/index.html",
+    "main.12a2f848.css.map": "/http//Romeoprexx.github.io/React-App-Calculator/static/css/main.12a2f848.css.map",
+    "main.42492e01.js.map": "/http//Romeoprexx.github.io/React-App-Calculator/static/js/main.42492e01.js.map",
+    "787.7ec99791.chunk.js.map": "/http//Romeoprexx.github.io/React-App-Calculator/static/js/787.7ec99791.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12a2f848.css",
+    "static/js/main.42492e01.js"
+  ]
+}
