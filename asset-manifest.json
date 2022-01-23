@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//Romeoprexx.github.io/react-calculator/static/css/main.12a2f848.css",
-    "main.js": "/http//Romeoprexx.github.io/react-calculator/static/js/main.bc8030e4.js",
-    "static/js/787.7ec99791.chunk.js": "/http//Romeoprexx.github.io/react-calculator/static/js/787.7ec99791.chunk.js",
-    "index.html": "/http//Romeoprexx.github.io/react-calculator/index.html",
-    "main.12a2f848.css.map": "/http//Romeoprexx.github.io/react-calculator/static/css/main.12a2f848.css.map",
-    "main.bc8030e4.js.map": "/http//Romeoprexx.github.io/react-calculator/static/js/main.bc8030e4.js.map",
-    "787.7ec99791.chunk.js.map": "/http//Romeoprexx.github.io/react-calculator/static/js/787.7ec99791.chunk.js.map"
+    "main.css": "/http//https://romeoprexx.github.io/react-app-calculator/static/css/main.12a2f848.css",
+    "main.js": "/http//https://romeoprexx.github.io/react-app-calculator/static/js/main.82e42dad.js",
+    "static/js/787.7ec99791.chunk.js": "/http//https://romeoprexx.github.io/react-app-calculator/static/js/787.7ec99791.chunk.js",
+    "index.html": "/http//https://romeoprexx.github.io/react-app-calculator/index.html",
+    "main.12a2f848.css.map": "/http//https://romeoprexx.github.io/react-app-calculator/static/css/main.12a2f848.css.map",
+    "main.82e42dad.js.map": "/http//https://romeoprexx.github.io/react-app-calculator/static/js/main.82e42dad.js.map",
+    "787.7ec99791.chunk.js.map": "/http//https://romeoprexx.github.io/react-app-calculator/static/js/787.7ec99791.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12a2f848.css",
-    "static/js/main.bc8030e4.js"
+    "static/js/main.82e42dad.js"
   ]
 }
